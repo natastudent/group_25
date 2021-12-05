@@ -1,3 +1,5 @@
 <xml>
 <name>Natasha<name/>
 <age>32</age>
+<city>bali</city>
+<from>Siberia</from>
